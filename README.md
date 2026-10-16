@@ -3,6 +3,7 @@
 An interactive 4-page Power BI dashboard built on Superstore retail data. SQL (SQLite) was used to clean and explore the data, and Power BI was used to turn the findings into a navigable dashboard.
 
 **Author:** Vishal Kanna | B.Tech Artificial Intelligence & Data Science
+
 **LinkedIn:** https://www.linkedin.com/in/vishal-kanna-r-654069327/
 
 ## Business Questions
@@ -26,7 +27,17 @@ An interactive 4-page Power BI dashboard built on Superstore retail data. SQL (S
 | Segment Breakdown | Most and least selling customer segments by sales |
 | Top and Bottom Performers | Top 5 and bottom 5 sub-categories by profit, losses highlighted in red |
 
-Screenshots: see the `/screenshots` folder (`overview.png`, `deepdive.png`, `segment.png`, `performers.png`).
+### Overview
+![Overview](screenshots/overview.png)
+
+### Deep Dive
+![Deep Dive](screenshots/deepdive.png)
+
+### Segment Breakdown
+![Segment Breakdown](screenshots/segment.png)
+
+### Top and Bottom Performers
+![Top and Bottom Performers](screenshots/performers.png)
 
 ## Key Insights
 
@@ -55,6 +66,6 @@ This version of the dataset has no order date, customer name or product name, so
 
 ## Repository Contents
 
-- `Superstore_Analytics.pbix`: the Power BI dashboard
+- `Superstore Analytics.pbix`: the Power BI dashboard
 - `queries.sql`: SQL queries used for the analysis
 - `screenshots/`: dashboard page images
