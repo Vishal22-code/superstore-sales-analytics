@@ -66,6 +66,6 @@ This version of the dataset has no order date, customer name or product name, so
 
 ## Repository Contents
 
-- `Superstore Analytics.pbix`: the Power BI dashboard
+- `Superstore_Analytics.pbix`: the Power BI dashboard
 - `queries.sql`: SQL queries used for the analysis
 - `screenshots/`: dashboard page images
